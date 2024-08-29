@@ -6,7 +6,7 @@ function culc (operation, a, b) {
         return a + b;
 } else if (operation === 'multi') {
     return a * b;
-} else if (operation ==='subtact') {
+} else if (operation ==='subtract') {
     return a - b;
 }
 }
