@@ -11,3 +11,4 @@ function culc (operation, a, b) {
 }
 }
 console.log(culc('add',1,2))
+console.log(culc('multi',5,6))
